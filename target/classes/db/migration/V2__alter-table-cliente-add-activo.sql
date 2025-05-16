@@ -1,0 +1,2 @@
+--alter table cliente add activo tinyint;
+--update cliente set activo=1
